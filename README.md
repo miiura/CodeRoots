@@ -17,7 +17,7 @@ Site elaborado para promover o ensino introdutório de programação em linguage
 
 <h2>LINKS IMPORTANTES</h2>
 
-+ LINK DO SITE (PROJETO): https://miiura.github.io/certificadora
++ LINK DO SITE (PROJETO): https://miiura.github.io/CodeRoots/
 + LINK DO PLANEJAMENTO: https://miiura.github.io/planejamentocertificadora
 + LINK DO MODELO DE SLIDE (e slide): https://www.canva.com/design/DAGzL-LBL1k/PdUTrZ7eQAPXYQSwSKYq1A/edit?utm_content=DAGzL-LBL1k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 + LINK DOS CONTEÚDOS (slides e gravações): https://drive.google.com/drive/folders/16gEB1vxhnDiDQHoDxQDzLsWc46acTwIq?usp=drive_link
