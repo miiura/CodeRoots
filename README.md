@@ -9,12 +9,14 @@ Site elaborado para promover o ensino introdutório de programação em linguage
 - Incentivar a Cooperação: Estimular o trabalho em equipe entre os colaboradores do projeto, incentivando o debate a troca de informações proativamente, junto da construção conjunta do conhecimento.
 
 <h2>Integrantes da Equipe CodeRoots</h2>
+
 * Alexandre Saito Bertão
 * Fabrício Custódio da Silva
 * Leda Alexandre Miura
 * Matheus José Rossieri
 
 <h2>LINKS IMPORTANTES</h2>
+
 + LINK DO SITE (PROJETO): https://miiura.github.io/certificadora
 + LINK DO PLANEJAMENTO: https://miiura.github.io/planejamentocertificadora
 + LINK DO MODELO DE SLIDE (e slide): https://www.canva.com/design/DAGzL-LBL1k/PdUTrZ7eQAPXYQSwSKYq1A/edit?utm_content=DAGzL-LBL1k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
